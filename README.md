@@ -31,4 +31,4 @@ If you want to use this project and have a virtual env to be clean and not have 
 Of course - here is a list of what you will need to run this!
 
 ```Conf
-PUSHBULLET_API_TOKEN=your_pushbullet_api_token```
+DISCORD_WEBHOOK_URL=webhook_here```
